@@ -7,7 +7,7 @@
     ],
     "dependencies": {
         "haxeui-core": "",
-        "flixel": ""
+        "flixel-nova": ""
     },
     "license": "MIT",
     "tags": [
